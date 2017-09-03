@@ -1,2 +1,2 @@
 # best-repo-ever
-This is so cool...
+Geting a badge from Trailhead ;-)
