@@ -1,5 +1,5 @@
 # best-repo-ever
 Geting a badge from Trailhead ;-)
 
-Some other change...
+Other change, but it reverted...
 
